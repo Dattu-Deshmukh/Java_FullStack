@@ -40,7 +40,7 @@ public class abstractpp2 {
 		a.add();
 		a.mul();
 		a.mul1();
-		arth.div();
+		arthh.div();
 		a.neeraj();
 	}
 }

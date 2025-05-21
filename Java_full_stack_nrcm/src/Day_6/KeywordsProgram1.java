@@ -24,7 +24,7 @@ package Day_6;
 //final Keyword
 class Final{
 	void show() {
-		final int a = 90;
+		int a = 90;
 		System.out.println(a);
 		a =909;
 		System.out.println(a);
